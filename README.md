@@ -1,5 +1,5 @@
 # spectrogram-3D
-Create easily beautiful looking 3D spectrograms.
+Easily create beautiful looking 3D spectrograms.
 
 ![](./Figure_1.png)
 
