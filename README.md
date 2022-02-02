@@ -14,4 +14,4 @@ matplotlib
 Pass the `*.wav` file path then run.
 
 ## To-Do's
-- [] CLI Support
+- [ ] CLI Support
